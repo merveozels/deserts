@@ -82,7 +82,7 @@ h6 {
   margin-inline: auto;
   display: grid;
   align-items: center;
-  justify-content: center ;
+  justify-items: center ;
 }
 
 h1 {
@@ -94,13 +94,21 @@ h1 {
   text-align: left;
   margin-bottom: 32px;
 }
-
+.productArea{
+  margin-inline: auto;
+}
 .deserts-inner {
   display: grid;
   grid-template-columns: 1fr;
   gap: 20px;
   justify-content: center;
   align-items: center;
+}
+
+.denemeflex{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 
 .card-top {
