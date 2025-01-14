@@ -94,9 +94,11 @@ h1 {
   text-align: left;
   margin-bottom: 32px;
 }
+
 .productArea{
   margin-inline: auto;
 }
+
 .deserts-inner {
   display: grid;
   grid-template-columns: 1fr;

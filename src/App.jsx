@@ -142,7 +142,7 @@ function App() {
     <>
       <div className="container">
         <div className="productArea">
-          <h1>Deserts</h1>
+          <h1>Desserts</h1>
           <div className="deserts-inner">
             {
               Deserts.map((x) => (
